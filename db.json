@@ -3,38 +3,162 @@
         {
             "id": 1,
             "judul": "Avenger Infinite War",
+            "tahun": 2018,
+            "rating": 8.4,
             "sinopsis": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to the battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality.",
             "poster": "http://riset.club/images/1.jpg"
         },
         {
             "id": 2,
             "judul": "Joker",
+            "tahun": 2019,
+            "rating": 8.4,
             "sinopsis": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he is part of the world around him.",
             "poster": "http://riset.club/images/2.jpg"
         },
         {
             "id": 3,
             "judul": "OnWard",
+            "tahun": 2020,
+            "rating": 7.4,
             "sinopsis": "Teenage elf brothers Ian and Barley embark on a magical quest to spend one more day with their late father. Like any good adventure, their journey is filled with cryptic maps, impossible obstacles and unimaginable discoveries.",
             "poster": "http://riset.club/images/3.jpg"
         },
         {
             "id": 4,
             "judul": "Knives Out",
+            "tahun": 2019,
+            "rating": 7.9,
             "sinopsis": "The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there is one thing that renowned Detective Benoit Blanc knows for sure -- everyone in the wildly dysfunctional Thrombey family is a suspect.",
             "poster": "http://riset.club/images/4.jpg"
         },
         {
             "id": 5,
             "judul": "Mulan",
+            "tahun": 2020,
+            "rating": 5.7,
             "sinopsis": "A young Chinese maiden disguise herself as a male warrior in order to save her father.",
             "poster": "http://riset.club/images/5.jpg"
         },
         {
             "id": 6,
             "judul": "Tenet",
+            "tahun": 2020,
+            "rating": 7.4,
             "sinopsis": "In a twilight world of international espionage, an unmaned CIA operative, known as The Protagonist is recruited by a mysterious organization called Tenet to participate in a global assignment that unfolds beyond real time.",
             "poster": "http://riset.club/images/6.jpg"
+        },
+        {
+            "id": 7,
+            "judul": "Squid Game",
+            "tahun": 2021,
+            "rating": 8.2,
+            "sinopsis": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes. A survival game that has a whopping 45.6 billion-won prize at stake.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg"
+        },
+        {
+            "id": 8,
+            "judul": "Free Guy",
+            "tahun": 2021,
+            "rating": 7.3,
+            "sinopsis": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+        },
+        {
+            "id": 9,
+            "judul": "Maid",
+            "tahun": 2021,
+            "rating": 8.6,
+            "sinopsis": "After fleeing an abusive relationship, a young mother finds a job cleaning houses as she fights to provide for her child and build them a better future.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZjA5NTZiZDYtMzA2NS00MDE2LTk0Y2EtMThhOTk0OTEwNDdhXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg"
+        },
+        {
+            "id": 10,
+            "judul": "The Shawshank Redemption",
+            "tahun": 1994,
+            "rating": 9.3,
+            "sinopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+        },
+        {
+            "id": 11,
+            "judul": "Dune",
+            "tahun": 2021,
+            "rating": 8.3,
+            "sinopsis": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+        },
+        {
+            "id": 12,
+            "judul": "The Godfather",
+            "tahun": 1972,
+            "rating": 9.1,
+            "sinopsis": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        },
+        {
+            "id": 13,
+            "judul": "Spider-Man: Homecoming",
+            "tahun": 2017,
+            "rating": 7.4,
+            "sinopsis": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_.jpg"
+        },
+        {
+            "id": 14,
+            "judul": "No Time to Die",
+            "tahun": 2021,
+            "rating": 7.6,
+            "sinopsis": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg"
+        },
+        {
+            "id": 15,
+            "judul": "Midnight Mass",
+            "tahun": 2021,
+            "rating": 7.8,
+            "sinopsis": "An isolated island community experiences miraculous events - and frightening omens - after the arrival of a charismatic, mysterious young priest.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNWVmZWQ5ZmItZjc2OC00MTFhLWI4OTEtNWY3MDg0OWY3YTJjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+        },
+        {
+            "id": 16,
+            "judul": "What If...?",
+            "tahun": 2021,
+            "rating": 7.6,
+            "sinopsis": "Exploring pivotal moments from the Marvel Cinematic Universe and turning them on their head, leading the audience into uncharted territory.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOGYwYTA5M2QtMTk3Zi00ZjdjLWFkNDUtYzg4MjM0ZGI0MGU1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg"
+        },
+        {
+            "id": 17,
+            "judul": "The Chestnut Man",
+            "tahun": 2021,
+            "rating": 7.9,
+            "sinopsis": "A young woman is found brutally murdered in a playground and one of her hands is missing. Above her hangs a small man made of chestnuts.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNWRiNGU2NjUtZDk0NS00YThlLWEzM2EtMDMwOWViMGM1MTZiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg"
+        },
+        {
+            "id": 18,
+            "judul": "Iron Man 2",
+            "tahun": 2021,
+            "rating": 7.0,
+            "sinopsis": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_.jpg"
+        },
+        {
+            "id": 19,
+            "judul": "Venom: Let There Be Carnage",
+            "tahun": 2021,
+            "rating": 6.4,
+            "sinopsis": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg"
+        },
+        {
+            "id": 20,
+            "judul": "A Bug's Life",
+            "tahun": 1998,
+            "rating": 7.2,
+            "sinopsis": "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
         }
     ]
 }
